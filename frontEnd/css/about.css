@@ -1,0 +1,16 @@
+.navbar-custom {
+    background-color: #104579;
+}
+.about-section{
+    background-image:url('../assets/img/4635743.jpg');
+    height:auto;
+    color:white;
+}
+
+.container{
+    background-color: #104579;
+}
+.footer{
+    background-color: #104579;
+    height: 70px;
+}

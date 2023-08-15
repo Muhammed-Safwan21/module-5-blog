@@ -1,0 +1,22 @@
+.content{
+    color: #ffffff;
+}
+.navbar{
+    background-color: #0e4a7c ;
+}
+.contact-page{
+    background-image: url("../assets/img/4635743.jpg");
+    color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+.footer{
+    background-color: #0e4a7c  ; 
+   
+}
+.list-inline-item i{
+    color: #ffffff;
+}
